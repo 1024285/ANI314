@@ -75,4 +75,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Large F***cking Files
-LFF/*
+**/LFF/
