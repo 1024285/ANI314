@@ -153,6 +153,19 @@
 		{
 			"Name": "ImagePlate",
 			"Enabled": true
+		},
+		{
+			"Name": "MoviePipelineMaskRenderPass",
+			"Enabled": true
+		},
+		{
+			"Name": "NukeServer",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Linux",
+				"Mac",
+				"Win64"
+			]
 		}
 	],
 	"TargetPlatforms": [
