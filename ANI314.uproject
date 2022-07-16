@@ -155,18 +155,8 @@
 			"Enabled": true
 		},
 		{
-<<<<<<< Updated upstream
 			"Name": "MoviePipelineMaskRenderPass",
 			"Enabled": true
-=======
-			"Name": "NukeServer",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Linux",
-				"Mac",
-				"Win64"
-			]
->>>>>>> Stashed changes
 		}
 	],
 	"TargetPlatforms": [
