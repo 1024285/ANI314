@@ -76,3 +76,6 @@ DerivedDataCache/*
 
 # Large F***cking Files
 **/LFF/
+
+# Kitbash3D Folder
+**/KB3D/
